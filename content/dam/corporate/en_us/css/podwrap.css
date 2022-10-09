@@ -1,0 +1,7 @@
+ul#bla li a{
+white-space: pre-wrap;
+}
+.catalog {
+    padding-right: 0px !important;
+}
+ul#bla li:not(.li-init) {  position:relative;}

@@ -1,0 +1,32 @@
+body,h1,h2,h3,h4,h5,h6,a,span,p,div{font-family:"freight-sans-pro",Helvetica,Arial,sans-serif}
+.masthead__heading,.masthead__text,.generic-widget-stories__title-wrapper,.generic-widget-stories__content__text,.generic-widget-stories__title{font-family:"freight-sans-pro",Helvetica,Arial,sans-serif}
+@media(min-width:1200px){.masthead__heading{font-size:5rem;line-height:1.1;font-weight:400}
+}
+.card-three-col__heading1,.card-generic__columns p,.card-generic__columns .button,.card-three-col__wrapper a,.card-trio__content-area h1,.card-trio__content-area h3,.card-trio__content-area p,.card-trio__content-area .bio-btn,.card-trio__callout__content__text p,.card-trio__callout__content__text a{font-family:"freight-sans-pro",Helvetica,Arial,sans-serif}
+.card-therapy__title,.card-therapy__legend,.card-windowshade__heading,.card-windowshade__item--active .card-windowshade__item__heading,.card-windowshade__item__content.card-windowshade__item__desc p,.card-windowshade__item__heading,.card-generic-photo__heading,.card-generic-photo__text,.card-generic-photo__actions a,.card-generic-photo__heading,.card-generic-photo__text p{font-family:"freight-sans-pro",Helvetica,Arial,sans-serif}
+.video-card__heading,.video-card__text,.card-searching-jobs__heading,.card-searching-jobs__copy,.bio-btn-tertiary,.card-trio--about .card-trio__cta,.card-three-col--light-bg .card-three-col__heading1,.card-three-col--light-bg .card-three-col__heading2{font-family:"freight-sans-pro",Helvetica,Arial,sans-serif}
+.page__heading1,.bar-heading,.bluebar-heading,.contact .title,.contact .section-content p,.contact .section-content a,.contact__zoneSelector a,.filter-dd__trigger__text,.profile-list-item__name,.profile-list-item__category,.profile-list-item__detail,.card-therapy__dropdown__filter-by{font-family:"freight-sans-pro",Helvetica,Arial,sans-serif}
+.burger-open{background-image:url(clientlib/images/menulegacy.png) !important;background:0}
+.burger-close{background-image:url(clientlib/images/closelegacy.png) !important;background:0}
+.main-content-wrapper{margin-top:-70px}
+@media(max-width:766.99px){.masthead__columns{padding-top:60px}
+}
+.js-header.fixed-top.is-bg{background:#0076bc}
+.firstmenu1 .search-input{border:0;padding:0;padding-right:0;height:auto;width:auto}
+@media(min-width:768px){.header-menu-top::after,.header::after,.inner::after,.list-lg::after,.list::after{display:block;clear:both;content:""}
+.js-header .inner{padding:15px 75px 30px !important}
+}
+.serachnew-main{margin-top:70px}
+.icons-facebook-grey:before{margin-bottom:5px !important}
+.icons-facebook-grey:hover:before{margin-bottom:5px !important}
+.soc.footer-soc li.soc-list-item a:hover{text-decoration:none !important}
+@media(min-width:768px){.profile-list .page__heading1,.profile-detail .page__heading1{background-color:#266093;opacity:.8}
+}
+.profile-detail__sidebar{background-color:#0076bc}
+@media(min-width:992px){.profile-list__list--photo .profile-list-item__content{background:#0076bc}
+}
+@media(max-width:991px){.profile-list-item__link{background-color:#0076bc}
+}
+@media(min-width:768px){.profilelist .page,.genericcontent .page{padding-top:0}
+}
+.page__background:before{background-color:transparent}

@@ -1,0 +1,11 @@
+a.topic-meta, a.topic-img, a.topic-caption, a.topic-description{
+    pointer-events: none;
+}
+
+a.topic-description:hover {
+    color: #777;
+}
+
+a.topic-meta:hover, a.topic-caption:hover{
+   color: #0076bc;
+}

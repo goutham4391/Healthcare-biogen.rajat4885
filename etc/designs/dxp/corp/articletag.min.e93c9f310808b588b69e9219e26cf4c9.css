@@ -1,0 +1,9 @@
+.content p+.tags{margin:70px 0 120px}
+.tags{display:block;padding-top:28px;border-top:1px solid #aaa}
+.tags-item{position:relative;display:inline-block}
+.tags-item:not(:last-child):after{content:'';position:absolute;right:-11px;top:50%;margin-top:-6px;width:2px;height:12px;background:#aaa}
+a.tags-link.tag-filter{text-decoration:none}
+.tags-item:not(:last-child){margin-right:24px}
+@media(max-width:766.99px){.tags{padding-top:20px}
+.content p+.tags{margin:40px 0 30px}
+}

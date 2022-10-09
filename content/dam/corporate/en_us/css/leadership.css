@@ -1,0 +1,20 @@
+.profile-list__heading {
+  font-size: 3.6rem !important;
+  color: #7ba1d1 !important;
+  padding-top: 60px !important;
+}
+
+@media (max-width: 767px) {
+  .profile-list__heading {
+    padding-top: 0px !important;
+  }
+}
+
+.extended-list_heading {
+  font-size: 3.6rem !important;
+  color: #7ba1d1 !important;
+  padding-top: 30px !important;
+}
+.extended-leadership .profile-list-item .profile-list-item__content {
+  background: #0076bc !important;
+}

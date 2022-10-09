@@ -1,0 +1,80 @@
+.author-parsys-shift{height:10rem}
+.quick-tools__icon--font{font-family:'icomoon';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.quick-tools__icon--header{font-size:30px;font-size:3rem}
+.card-trio__content-area h2{font-size:38px;font-size:3.8rem;color:#2573ba;font-weight:400;margin:0 0 10px}
+.card-trio--investors .card-trio__content-area h2,.card-trio--about .card-trio__content-area h2{color:#FFF}
+.card-trio__content-area .hyperlink a{font-size:20px;font-size:2rem;font-weight:500;margin:5px 0;display:block;color:#2573ba}
+.card-trio__content-area .hyperlink a:hover,.card-trio__content-area .hyperlink a:focus{text-decoration:none;color:#2573ba}
+.card-trio--investors .card-trio__content-area .hyperlink a,.card-trio--about .card-trio__content-area .hyperlink a{font-size:24px;font-size:2.4rem;margin-bottom:15px;color:#FFF}
+.card-trio__content-area p{font-size:16px;font-size:1.6rem;line-height:1.3;color:#2573ba}
+.card-trio--investors .card-trio__content-area p,.card-trio--about .card-trio__content-area p{color:#FFF}
+.row.hide-in-mobile{display:none;visibility:hidden}
+.profile-list__filtering .bio-btn{display:block;margin-bottom:10px;width:100%;margin-right:0;line-height:26px}
+.page__main .text,.page__main .columncontrol .title,.page__main .columncontrol .button{font-size:16px;font-size:1.6rem;margin:30px 15px 45px;color:#578196}
+.page__main .columncontrol .button{margin:15px 15px 15px 0;clear:both}
+.card-searching-jobs__image-container{text-align:center}
+.card-searching-jobs__image-container .adaptiveimage{width:100%;display:inline-block;vertical-align:middle}
+.card-searching-jobs__icons{background-image:none}
+.card-trio__callout__content__text{position:relative;z-index:100}
+@media(min-width:900px){.card-trio__content-area h2{font-size:48px;font-size:4.8rem}
+}
+@media(min-width:768px){.quick-tools__icon--header{font-size:18px;font-size:1.8rem}
+.profile-list__filtering__btn ~ .filter-dd{width:50%}
+.card-trio--about .card-trio__content-area p{font-size:18px;font-size:1.8rem}
+.profile-list__filtering .bio-btn{display:inline-block;margin-bottom:0;width:300px;text-align:center;float:right}
+.page__main .text,.page__main .columncontrol .title h3,.page__main .columncontrol .button{margin-left:45px;margin-right:45px}
+.card-searching-jobs__image-container .adaptiveimage{line-height:160px}
+}
+@media(min-width:992px){.card-searching-jobs__image-container .adaptiveimage{line-height:190px}
+.card-searching-jobs__image-container .adaptiveimage img{width:65%;display:inherit}
+}
+@media(min-width:1024px){.quick-tools__icon--header{font-size:22px;font-size:2.2rem}
+.row.hide-in-mobile{display:inherit;visibility:visible}
+}
+.card-trio--about .card-trio__content-area h1,.card-trio--about .card-trio__content-area h2,.card-trio--about .card-trio__content-area h3,.card-trio--about .card-trio__content-area h4,.card-trio--about .card-trio__content-area h5,.card-trio--about .card-trio__content-area h6,.card-trio--about .card-trio__content-area div,.card-trio--about .card-trio__content-area span,.card-trio--about .card-trio__content-area p,.card-trio--about .card-trio__content-area a,.card-trio--about .card-trio__content-area ul,.card-trio--about .card-trio__content-area li,.card-trio--about .card-trio__content-area sup,.card-trio--investors .card-trio__content-area sup,.card-trio--investors .card-trio__content-area h1,.card-trio--investors .card-trio__content-area h2,.card-trio--investors .card-trio__content-area h3,.card-trio--investors .card-trio__content-area h4,.card-trio--investors .card-trio__content-area h5,.card-trio--investors .card-trio__content-area h6,.card-trio--investors .card-trio__content-area div,.card-trio--investors .card-trio__content-area span,.card-trio--investors .card-trio__content-area p,.card-trio--investors .card-trio__content-area a,.card-trio--investors .card-trio__content-area ul,.card-trio--investors .card-trio__content-area li{color:#FFF}
+.card-trio--about .bio-btn{color:#FFF;background-color:#457f39;font-size:18px;font-size:1.8rem;transition:all 500ms ease-in-out;line-height:1.1;display:inline-block;padding:10px 15px;text-shadow:none;border:0;outline:0;border-radius:0}
+.card-trio--about .bio-btn:hover,.card-trio--about .bio-btn:focus,.card-trio--about .bio-btn:active{color:#FFF;background-color:#457f39;text-decoration:none;text-shadow:none;outline:0;border:0}
+.card-trio__content-area .bio-btn{margin:25px 0}
+.card-trio--investors .card-trio__content-area .bio-btn{margin:15px 0}
+.card-trio__content-area .parbase.base.button{padding-bottom:13px}
+.card-trio__content-area .hyperlink{padding-top:11px}
+.tabs__tabscontainer p,.tabs__secondtitle p,.tabs__contenttitle p,.blockquote p,.nav-secondary-menus__text p,.card-quote__quote-area__quote p,.card-abstract-light__text p,.mobile-menu-dropdown__child__link p,.card-therapy__dropdown__item__link p{display:inline}
+.filter-dd__list{z-index:11}
+.blockquote div{margin:30px 0}
+.generic-widget-news__image__text p{font-size:3rem;display:block;line-height:1em;text-align:center}
+.generic-widget-news__image__text p sub{font-size:2rem;display:block;line-height:1em;text-align:center}
+.generic-widget-stories__image__text p{font-size:3rem;display:block;line-height:1em;text-align:center}
+.generic-widget-stories__image__text p sub{font-size:2rem;display:block;line-height:1em;text-align:center}
+.generic-widget-stories__image__text p+p{margin-top:-6px}
+.generic-widget-news__image__text p+p{margin-top:-6px}
+.bio-btn.profile-list-item__error-btn{position:absolute;bottom:0;right:0}
+.page__main .columncontrol .title h3{font-size:15px;font-size:1.5rem;color:#578196;margin:0 30px -40px;text-transform:uppercase}
+.card-abstract-light{color:#578196}
+.card-three-col__wrapper div.image img{width:100%}
+.card-three-col__wrapper a{color:#FFF}
+.card-three-col__wrapper .card-tabs__contentbodycontainer a{color:#2573ba}
+.card-three-col__wrapper .parbase{margin:0 25px}
+.card-three-col .columncontrol .col{margin:40px 0}
+@media(min-width:768px){.card-three-col__wrapper .card-generic__columns{padding:0}
+.card-three-col__wrapper .parbase{padding:0}
+.card-three-col__wrapper .parbase.image{margin:0 10px}
+}
+@media(min-width:992px){.col-md-4,.iconlibrary__example{width:31.333333%;padding-left:0;padding-right:0;margin:0 10px}
+}
+@media(min-width:992px){.col-md-4{margin:0 1%}
+}
+@media(min-width:992px){.col-md-4,.iconlibrary__example{padding-left:0;padding-right:0}
+}
+.main-content-wrapper table.corp-table{color:#578196;font-family:franklin-gothic-urw,"Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;font-style:normal;font-weight:300;overflow:scroll}
+.main-content-wrapper .responsiveTable{overflow:scroll;background:url(images/responsiveChartShadow.png) repeat-y}
+table.corp-table td,table.corp-table th{text-align:center;padding:10px 20px}
+table.corp-table td{border-right:1px solid #dbe6e7;border-bottom:1px solid #dbe6e7}
+table.corp-table tr th:first-child{min-width:215px;text-align:left;font-weight:normal}
+@media(min-width:1024px){table.corp-table tr th:first-child{min-width:493px;text-align:left;font-weight:normal}
+table.corp-table td,table.corp-table th{text-align:center;padding:10px 20px;min-width:145px}
+}
+table.corp-table th{border-right:1px solid #dbe6e7}
+table.corp-table tr:first-child th{color:#688ea0;font-weight:400;padding:20px;border-bottom:4px solid #9cca43;background-color:#c2d3da;border-right:0}
+table.corp-table tr:first-child th:first-child{color:#7fafb9;background:#eef2f5;border-bottom:0}
+table.corp-table tr:last-child td{border-bottom:4px solid #9cca43}
+.nav-secondary{z-index:1031}

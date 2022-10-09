@@ -1,0 +1,9 @@
+@media(max-width:767px){.category.dropdown1-wrapper{margin-bottom:5px !important}
+.category,.location{width:100% !important}
+}
+@media(min-width:768px) and (max-width:1024px){.location.dropdown11-wrapper{margin-top:-30px !important}
+}
+.input-group .form-control#srch-term{font-size:1.6rem;font-family:franklin-gothic-urw,"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400}
+@media(max-width:1024px){.careersmasthead .mastheadalt{overflow:unset}
+.generic-widget-stories,.generic-widget-stories__image-container{z-index:unset}
+}

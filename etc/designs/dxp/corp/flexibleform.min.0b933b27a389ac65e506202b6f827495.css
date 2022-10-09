@@ -1,0 +1,44 @@
+.content body{color:#707070;font-family:"Open Sans",Arial,sans-serif;font-weight:400;font-style:normal;font-size:12px}
+@media all and (min-width:768px){.content body{font-size:16px}
+}
+.content h1,.content .h1{color:#003e74;font-family:"Open Sans",Arial,sans-serif;font-weight:700;font-style:normal;font-size:24px}
+.content h1 span,.content .h1 span{color:#00b8e4}
+@media all and (min-width:768px){.content h1,.content .h1{font-size:28px}
+}
+.content h2,.content .h2{color:#003e74;font-family:"Open Sans",Arial,sans-serif;font-weight:700;font-style:normal;font-size:24px}
+.content h2 span,.content .h2 span{color:#00b8e4}
+@media all and (min-width:768px){.content h2,.content .h2{font-size:28px}
+}
+.content h3,.content .h3{color:#003e74;font-family:"Open Sans",Arial,sans-serif;font-weight:700;font-style:normal;font-size:14px}
+.content h3 span,.content .h3 span{color:#00b8e4}
+@media all and (min-width:768px){.content h3,.content .h3{font-size:16px}
+}
+.content h4,.content .h4{color:#00b8e4;font-family:"Open Sans",Arial,sans-serif;font-weight:700;font-style:normal;font-size:18px}
+@media all and (min-width:768px){.content h4,.content .h4{font-size:20px}
+}
+.content h5,.content .h5{color:#003e74;font-family:"Open Sans",Arial,sans-serif;font-weight:700;font-style:normal;font-size:20px}
+@media all and (min-width:768px){.content h5,.content .h5{font-size:18px}
+}
+#flexibleForm label{display:block;font-weight:600}
+#flexibleForm .form-control{width:90%;font-size:13px;display:inline}
+@media all and (min-width:768px){#flexibleForm .form-control{width:70% !important}
+}
+#flexibleForm .btn-full{width:100%;text-align:left}
+@media all and (min-width:768px){#flexibleForm .btn-full{width:70%}
+}
+#flexibleForm .caret{float:right;margin-top:11px}
+#flexibleForm .inquiry-subject-field li a{text-decoration:none}
+#flexibleForm .inquiry-subject-field li a:hover{text-decoration:none}
+#flexibleForm #combo-box{position:absolute;right:11%;width:45px;height:15px;line-height:20px;margin:0;padding:0;background:white;border:0;top:4%}
+@media all and (min-width:768px){#flexibleForm #combo-box{top:2px;right:31%;height:15px}
+}
+#flexibleForm #combo-box .caret{float:none;margin-top:0;color:black}
+#flexibleForm .message-text{display:block;border-radius:6px;height:150px;width:100%}
+#flexibleForm .checkbox{display:inline;float:left;margin-right:6px;margin-top:2px}
+@media all and (min-width:768px){#flexibleForm .checkbox{margin-top:4px}
+}
+#flexibleForm .terms{font-size:13px}
+#flexibleForm .terms span{font-weight:700}
+#flexibleForm .btn-submit-form{display:block;margin:15px 0}
+#flexibleForm #fromEmail{color:#000 !important}
+#flexibleForm .btn-submit-form:disabled{border:1px solid #999 !important;background-color:#ccc !important;color:#666 !important}

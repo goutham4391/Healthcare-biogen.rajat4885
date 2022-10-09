@@ -1,0 +1,9 @@
+.page-title .nav-pills .title,.page-title .nav-pills .print,.page-title .nav-pills .share{display:none;text-transform:none}
+@media all and (min-width:768px){.page-title .nav-pills{right:-15px}
+.page-title .nav-pills .title,.page-title .nav-pills .print,.page-title .nav-pills .share,.page-title .nav-pills .fa,.page-title .nav-pills .glyphicon,.page-title .nav-pills .plegridyicon{color:#65b2e9}
+}
+@media all and (min-width:992px){.page-title .nav-pills{top:auto;bottom:-60px;right:0}
+.page-title .nav-pills .title,.page-title .nav-pills .print,.page-title .nav-pills .share,.page-title .nav-pills .glyphicon,.page-title .nav-pills .plegridyicon{line-height:16px;display:inline-block;vertical-align:bottom}
+.page-title .nav-pills .glyphicon,.page-title .nav-pills .plegridyicon,.page-title .nav-pills .fa{top:0}
+}
+.addthis_sharing_toolbox{float:right;margin-right:3%;padding:1.5% 2%;background-color:white}
